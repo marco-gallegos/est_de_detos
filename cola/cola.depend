@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415748508 source:/home/cebox/est_de_datos/cola/main.cpp
+	<iostream>
+	<cstdlib>
+

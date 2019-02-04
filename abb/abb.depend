@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1415491175 source:/home/cebox/est_de_datos/abb/main.cpp
+	<iostream>
+	<string>
+
